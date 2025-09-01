@@ -1,0 +1,4 @@
+quick_colony_growth = {
+	state_colony_growth_speed_mult = 10000000000000
+	state_colony_growth_creation_factor = 100000000
+}	

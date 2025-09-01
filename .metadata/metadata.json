@@ -1,0 +1,12 @@
+{
+  "name" : "Quick Colony Growth for Player Only",
+  "id" : "quick-colony-for-player-only",
+  "version" : "1.0",
+  "supported_game_version" : "",
+  "short_description" : "fast colony growth modifier",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
