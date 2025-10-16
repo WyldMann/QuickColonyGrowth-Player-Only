@@ -1,4 +1,4 @@
-# Corporate Ascendance
+# Quick Colony Growth
  A Victoria 3 mod
 
 Adds a player-only decision that gives a permanent modifier of faster colony growth.
